@@ -1,7 +1,7 @@
 ## Sticky Notes Swing Java Application ## 
-#The Sticky Notes application uses 6 design patterns of different types(structural, creational, behavioral)
+The Sticky Notes application uses 6 design patterns of different types(structural, creational, behavioral)
 in order to function. These pattern are used for solving some problems in the code and to keep the code as cleaner as possible.
-The built in design patterns are: #
+The built in design patterns are:
 
 * 1. Composite - (structural pattern) It can be viewed as a tree structure made up of 
 types that inherit a base type, and it can represent 
