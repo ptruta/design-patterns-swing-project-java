@@ -1,0 +1,12 @@
+1. Creational:
+   Abstract Factory - CREATIONAL creates an instance of several families of classes
+   Factory Method - CREATIONAL creates an instance of several derived classes
+   Builder - 
+
+2. Stuctural:
+   Adapter - STRUCTURAL match interfaces of different classes
+   Strategy - STRUCTURAL lets you change the guts.
+
+3. Behavioral:
+   Iterator - BEHAVIORAL sequentially access the elements of a collection
+   Null Object - BEHAVIORAL designed to act as a default value of an object

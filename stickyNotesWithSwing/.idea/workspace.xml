@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11f4d270-75c0-4857-a7f1-5691c5a1eb52" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c642FaotO7PTGgb0I6s4vYMMUK" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/patterns/prototype" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\An 3\Sem 2\Design Patterns\stickyNotesWithSwing\src\main\java\patterns\prototype" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StickyWindow">
+    <configuration name="StickyWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StickyWindow" />
+      <module name="stickyNotesWithSwing.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StickyWindow2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StickyWindow2" />
+      <module name="stickyNotesWithSwing.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StickyWindow2" />
+        <item itemvalue="Application.StickyWindow" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11f4d270-75c0-4857-a7f1-5691c5a1eb52" name="Default Changelist" comment="" />
+      <created>1589835500059</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589835500059</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589835889557">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1589835889557" />
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1590010579779">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1590010579779" />
+    <state x="403" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1590002914168">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="403" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1590002914168" />
+    <state x="438" y="67" key="#xdebugger.evaluate" timestamp="1589839163771">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="438" y="67" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1589839163771" />
+    <state width="449" height="466" key="DebuggerActiveHint" timestamp="1590043872885">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="449" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1590043872885" />
+    <state width="1322" height="119" key="GridCell.Tab.0.bottom" timestamp="1590062763897">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="119" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590062763897" />
+    <state width="1322" height="119" key="GridCell.Tab.0.center" timestamp="1590062763897">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="119" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590062763897" />
+    <state width="1322" height="119" key="GridCell.Tab.0.left" timestamp="1590062763897">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="119" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590062763897" />
+    <state width="1322" height="119" key="GridCell.Tab.0.right" timestamp="1590062763897">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="119" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590062763897" />
+    <state width="1322" height="199" key="GridCell.Tab.1.bottom" timestamp="1590043940852">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="199" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590043940852" />
+    <state width="1322" height="199" key="GridCell.Tab.1.center" timestamp="1590043940851">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="199" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1590043940851" />
+    <state width="1322" height="199" key="GridCell.Tab.1.left" timestamp="1590043940851">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="199" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1590043940851" />
+    <state width="1322" height="199" key="GridCell.Tab.1.right" timestamp="1590043940852">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="199" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1590043940852" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1589880840422">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589880840422" />
+    <state x="205" y="100" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1589838814010">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="205" y="100" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1589838814010" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1590008127214">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1590008127214" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/patterns/StickyRectangle.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/patterns/StickySquare.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/patterns/iterator/StickyIterator.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
